@@ -1,0 +1,37 @@
+/* Font */
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@800&family=Poppins:wght@400;600&display=swap');
+
+/* font-family: 'EB Garamond', serif; */
+/* font-family: 'Poppins', sans-serif; */
+
+/* Common Styles */
+.font-ebg {
+    font-family: 'EB Garamond', serif;
+}
+
+.font-poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
+.primary-color {
+    background-color: #B68C5A !important;
+    border: none;
+}
+
+.carousel-caption {
+    top: 25%;
+    bottom: auto;
+}
+
+.color-gray {
+    background-color: #F3F3F3;
+}
+
+.footer-text {
+    color: #CFCFCF;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #CFCFCF;
+}
